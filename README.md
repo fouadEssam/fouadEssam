@@ -2,6 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 Data-driven problem solver with a strong background in Computer and Control Engineering. Proficient in data analysis, visualization, and SQL, with a keen interest in leveraging Machine Learning and Deep Learning to derive actionable insights from complex datasets. Passionate about applying advanced analytical techniques to solve real-world challenges and drive informed decision-making.
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
 
 * 🌍  I'm based in Cairo
 * 🖥️  See my portfolio at [https://flowcv.com/resume/bnge0k8u1u](http://flowcv.com/resume/bnge0k8u1u)
